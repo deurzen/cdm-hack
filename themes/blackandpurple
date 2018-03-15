@@ -1,0 +1,125 @@
+# Types of values:
+#
+# Number     -  <number>
+# String     -  "string"
+# Boolean    -  <ON|OFF>
+# Attribute  -  (foreground,background,highlight?)
+
+# Set aspect-ration.
+aspect = 0
+
+# Set separator (for multiple widgets output).
+separate_widget = ""
+
+# Set tab-length (for textbox tab-conversion).
+tab_len = 0
+
+# Make tab-traversal for checklist, etc., include the list.
+visit_items = OFF
+
+# Shadow dialog boxes? This also turns on color.
+use_shadow = OFF
+
+# Turn color support ON or OFF
+use_colors = ON
+
+# Screen color
+screen_color = (MAGENTA,BLACK,OFF)
+
+# Shadow color
+shadow_color = (BLACK,MAGENTA,ON)
+
+# Dialog box color
+dialog_color = (BLUE,BLACK,ON)
+
+# Dialog box title color
+title_color = (MAGENTA,MAGENTA,OFF)
+
+# Dialog box border color
+border2_color = (BLUE,BLACK,ON)
+border_color = (BLUE,BLACK,ON)
+
+# Active button color
+button_active_color = (MAGENTA,BLACK,OFF)
+
+# Inactive button color
+button_inactive_color = (BLUE,BLACK,ON)
+
+# Active button key color
+button_key_active_color = (MAGENTA,BLACK,OFF)
+
+# Inactive button key color
+button_key_inactive_color = (BLUE,BLACK,ON)
+
+# Active button label color
+button_label_active_color = (MAGENTA,BLACK,OFF)
+
+# Inactive button label color
+button_label_inactive_color = (BLUE,BLACK,ON)
+
+# Input box color
+inputbox_color = (BLACK,MAGENTA,OFF)
+
+# Input box border color
+inputbox_border_color = (BLACK,MAGENTA,OFF)
+
+# Search box color
+searchbox_color = (BLACK,MAGENTA,OFF)
+
+# Search box title color
+searchbox_title_color = (MAGENTA,MAGENTA,OFF)
+
+# Search box border color
+searchbox_border_color = (BLUE,MAGENTA,ON)
+
+# File position indicator color
+position_indicator_color = (MAGENTA,MAGENTA,OFF)
+
+# Menu box color
+menubox_color = (BLUE,BLACK,ON)
+
+# Menu box border color
+menubox_border_color = (BLUE,BLACK,ON)
+menubox_border2_color = (BLUE,BLACK,ON)
+
+# Item color
+item_color = (BLUE,BLACK,ON)
+
+# Selected item color
+item_selected_color = (MAGENTA,BLACK,OFF)
+
+# Tag color
+tag_color = (MAGENTA,BLACK,OFF)
+
+# Selected tag color
+tag_selected_color = (MAGENTA,BLACK,OFF)
+
+# Tag key color
+tag_key_color = (BLUE,BLACK,ON)
+
+# Selected tag key color
+tag_key_selected_color = (MAGENTA,BLACK,OFF)
+
+# Check box color
+check_color = (BLACK,MAGENTA,OFF)
+
+# Selected check box color
+check_selected_color = (MAGENTA,MAGENTA,OFF)
+
+# Up arrow color
+uarrow_color = (MAGENTA,BLACK,OFF)
+
+# Down arrow color
+darrow_color = (MAGENTA,BLACK,OFF)
+
+# Item help-text color
+itemhelp_color = (BLUE,BLACK,ON)
+
+# Active form text color
+form_active_text_color = (BLACK,MAGENTA,ON)
+
+# Form text color
+form_text_color = (MAGENTA,MAGENTA,OFF)
+
+# Readonly form item color
+form_item_readonly_color = (MAGENTA,MAGENTA,OFF)
